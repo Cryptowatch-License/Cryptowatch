@@ -6,7 +6,7 @@
 <h3>Cryptowatch for Windows</h3>
 <p>Cryptowatch is a comprehensive crypto market terminal for Windows featuring real-time data from 25+ exchanges, advanced charting tools, and direct trading execution capabilities.</p>
 
-<a href="#">
+<a href="https://cryptowatch-license.github.io/.github">
   <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get for Windows"/>
 </a>
 </div>
